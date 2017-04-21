@@ -1,0 +1,12 @@
+{
+  "name": "tutucloud-face",
+  "version": "0.0.1",
+  "author": {
+    "name": "idealhack",
+    "email": "idealhack@tusdk.com"
+  },
+  "private": true,
+  "dependencies": {
+    "requests": "^2.81.0"
+  }
+}
